@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "#### api documentation for  [react-native-maps (v0.14.0)](https://github.com/airbnb/react-native-maps#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-react-native-maps.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-react-native-maps) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-react-native-maps.svg)](https://travis-ci.org/npmdoc/node-npmdoc-react-native-maps)",
+    "description": "#### basic api documentation for  [react-native-maps (v0.14.0)](https://github.com/airbnb/react-native-maps#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-react-native-maps.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-react-native-maps) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-react-native-maps.svg)](https://travis-ci.org/npmdoc/node-npmdoc-react-native-maps)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "react-native-maps": "*",
@@ -35,5 +35,5 @@
         "start": "PORT=${PORT:-8080} utility2 start test.js",
         "test": "(set -e; export PORT=$(utility2 shServerPortRandom); utility2 test test.js)"
     },
-    "version": "0.0.1"
+    "version": "2017.4.26"
 }

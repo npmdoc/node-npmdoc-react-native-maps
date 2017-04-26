@@ -1,6 +1,6 @@
 # npmdoc-react-native-maps
 
-#### api documentation for  [react-native-maps (v0.14.0)](https://github.com/airbnb/react-native-maps#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-react-native-maps.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-react-native-maps) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-react-native-maps.svg)](https://travis-ci.org/npmdoc/node-npmdoc-react-native-maps)
+#### basic api documentation for  [react-native-maps (v0.14.0)](https://github.com/airbnb/react-native-maps#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-react-native-maps.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-react-native-maps) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-react-native-maps.svg)](https://travis-ci.org/npmdoc/node-npmdoc-react-native-maps)
 
 #### React Native Mapview component for iOS + Android
 
@@ -111,7 +111,8 @@
         "start": "node node_modules/react-native/local-cli/cli.js start",
         "start:android": "adb shell am start -n com.airbnb.android.react.maps.example/.MainActivity"
     },
-    "version": "0.14.0"
+    "version": "0.14.0",
+    "bin": {}
 }
 ```
 
